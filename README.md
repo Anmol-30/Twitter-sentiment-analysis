@@ -9,8 +9,7 @@ PROBLEM STATEMENT
 The objective of this task is to detect hate speech in tweets. For the sake of simplicity, we say a tweet contains hate speech if it has a racist or sexist sentiment associated with it. So, the task is to classify racist or sexist tweets from other tweets.
 
 
-![Sentiment](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdatasciencechalktalk.com%2F2019%2F07%2F14%2Ftwitter-sentiment-analysis-with-tweepy%2F&psig=AOvVaw03ktbkh7l-v9emV8U_9aze&ust=1588859014600000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDmg9Gkn-kCFQAAAAAdAAAAABAa)
-
+![](images/sentiments.png)
 
 Let's get started!
 
